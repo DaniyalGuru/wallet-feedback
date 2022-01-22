@@ -1,0 +1,60 @@
+.bg__header{
+    width: 100%;
+    height: 180px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.login__heading1{
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.login__heading1 img{
+    object-fit: contain;
+    margin-top: -5px;
+}
+
+.login__heading1 h1{
+    font-size: 26px;
+    line-height: 0%;
+    margin-bottom: 0%;
+    color: #fff;
+    margin-left: 5px;
+}
+
+.loginPara1{
+    position: relative;
+    top: 10%;
+    color: #fff;
+    font-weight: 300;
+}
+
+.loginHeading2{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 25px;
+    text-align: center;
+    color: #33373B;
+}
+
+.loginPara2{
+    width: 70%;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 19px;
+    text-align: center;
+    color: #6F6E73;
+}
+
+.unclock__btn{
+    width: 115px;
+}

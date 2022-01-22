@@ -1,0 +1,32 @@
+.phraseBox1{
+    width: fit-content;
+    height: fit-content;
+    padding: 6px;
+    background: #FCFCFC;
+    border: 1px solid #DFDFE0;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.numberDiv{
+    width: 30px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #6F6E73;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.phraseBox1 span{
+    margin-left: 8px;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: -0.154px;
+    color: #414047;
+}

@@ -1,0 +1,45 @@
+.seedheading1{
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    text-align: center;
+    color: #0F2035;
+}
+
+.phraseContainer{
+    width: 100%;
+    height: fit-content;
+    padding: 10px 0px;
+    padding-bottom: 0%;
+    background: #FCFCFC;
+    border: 1px solid #DFDFE0;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-top: 5px;
+}
+
+.copySeedDiv{
+    width: fit-content;
+    height: fit-content;
+}
+
+.copySeedDiv:hover{
+    cursor: pointer;
+}
+
+.copySeedPara{
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 22px;
+    font-weight: 400;
+    letter-spacing: -0.408px;
+    color: #885FFF;
+    margin-left: 5px;
+}
+
+.continue__btn1{
+    width: 200px;
+}
